@@ -1,8 +1,8 @@
-plugins {
+plugins {
  	id "org.sonarqube" version "2.7.1"
- 	}
+}
  
- apply plugin: 'com.android.application'
+apply plugin: 'com.android.application'
 
 android {
 
